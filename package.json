@@ -1,5 +1,5 @@
 {
-  "name": "db.discord",
+  "name": "discord.database",
   "version": "0.0.0-dev.1",
   "type": "module",
   "files": [
